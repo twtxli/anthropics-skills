@@ -1,6 +1,7 @@
 ---
 name: pdf
 description: "Use this skill when the user wants to do anything with PDF files, such as read, extract, merge, split, rotate, watermark, create, fill, encrypt, or OCR them, or mentions a .pdf file."
+license: Proprietary. LICENSE.txt has complete terms
 ---
 
 # PDF Processing Guide

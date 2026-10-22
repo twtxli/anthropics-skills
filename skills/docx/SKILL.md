@@ -1,6 +1,7 @@
 ---
 name: docx
 description: "Use this skill when the user wants to create, read, edit, or manipulate Word documents (.docx) or templates (.dotx), or wants a report, memo, letter, or template delivered as a Word file."
+license: Proprietary. LICENSE.txt has complete terms
 ---
 
 # DOCX creation, editing, and analysis
