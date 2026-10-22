@@ -1,7 +1,6 @@
 ---
 name: pptx
 description: "Use this skill when a .pptx or .potx file is involved as input or output, or the user mentions a deck, slides, or a presentation."
-license: Proprietary. LICENSE.txt has complete terms
 ---
 
 # PPTX creation, editing, and analysis

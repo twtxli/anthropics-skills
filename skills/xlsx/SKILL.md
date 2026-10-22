@@ -1,7 +1,6 @@
 ---
 name: xlsx
 description: "Use this skill when a spreadsheet file (.xlsx, .xlsm, .xltx, .csv, .tsv) is the primary input or output, such as to open, edit, clean, convert, or create one."
-license: Proprietary. LICENSE.txt has complete terms
 ---
 
 # XLSX creation, editing, and analysis
